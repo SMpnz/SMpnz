@@ -42,7 +42,7 @@
 </a></span>
 </p>
 <p><a href="mailto:profff1@ya.ru">Задавайте вопросы по электронной почте</a></p>
-<p><a href="#">HeadHunter</a></p>
+<p><a href="https://hh.ru/resume/8edfcdc3ff0b2fbf0f0039ed1f4d7679386f4d">HeadHunter</a></p>
 <p><a href="https://t.me/sm_pnz">   Ссылка в Telegram: 
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
