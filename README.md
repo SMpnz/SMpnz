@@ -25,8 +25,8 @@
 
 <p align="center">
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Linux](https://svgshare.com/i/ssP.svg)](https://svgshare.com/i/ssP.svg)
+[![Windows](https://svgshare.com/i/nM0.svg)](https://svgshare.com/i/nM0.svg)
 </p>
 </a></span>
 
