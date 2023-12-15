@@ -23,11 +23,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&style=for-the-badge&logoColor=ffffff)](https://github.com/)
 
-<p align="center">
-
-[![Linux](https://svgshare.com/i/ssP.svg)](https://svgshare.com/i/ssP.svg)
-[![Windows](https://svgshare.com/i/nM0.svg)](https://svgshare.com/i/nM0.svg)
-</p>
 </a></span>
 
 </h2>
